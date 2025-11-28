@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -244,7 +244,7 @@
   <h2>Contact Me</h2>
   <p>Email: brindams10@gmail.com</p>
   <p>Phone: 6360228240</p>
-  <a href="resume.pdf" download><button>Download Resume</button></a>
+  <a href="C:\Users\Brinda MS\Downloads\brinda ms.pdf" download><button>Download Resume</button></a>
 </section>
 
 <footer>
